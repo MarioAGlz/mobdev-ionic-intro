@@ -1,3 +1,3 @@
 tasks:
   - init: echo "Replace me with a build script for the project."
-    command: npm i -g ionic npm mkdirp
+    command: npm i -g @ionic/cli npm mkdirp
