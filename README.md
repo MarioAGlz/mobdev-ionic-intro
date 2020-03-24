@@ -1,2 +1,2 @@
 # mobdev-ionic-intro
-A repositori of MobDev
+A repository of first app with Ionic - MobDev 
